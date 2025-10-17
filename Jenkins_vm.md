@@ -4,8 +4,7 @@
 **EC2 Instances:**
 
 * Create **EC2 instances** (Ubuntu 25.04, t2.medium)
-* **Instance 1:** Jenkins Server
-* 
+* **Instance :** Jenkins Server
 * Configure **Security Groups** to allow ports:
 
   * Jenkins: 8080
